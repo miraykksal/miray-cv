@@ -1,0 +1,32 @@
+
+body {
+    background-color:#321204;
+    font-family:Trebuchet MS; }
+  
+  h1 {
+    color:#d8cbbd;
+    font-family:Georgia;  
+    font-size:260%; 
+    text-align:center;
+  }
+  h2 {
+    font-family:Georgia;  
+    color:#d8cbbd;
+    text-align:center;    
+  }
+  h3 {
+    color : #d8cbbd;
+  }
+  
+  p {
+    color: #f8f8f8;
+    
+  }
+  ul {
+    color: #f8f8f8;
+    
+  }
+  a {color:#f8f8f8; }
+  a:hover{color:#FF0000;} 
+  a:link{text-decoration:none;}
+  
